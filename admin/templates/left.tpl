@@ -8,7 +8,7 @@
           <a href="index.php"><span class="glyphicons glyphicon-home"></span><span class="sidebar-title">后台首页</span></a>
         </li>
         <li>
-          <a href="news_list.php"><span class="glyphicons glyphicon-file"></span><span class="sidebar-title">文章管理</span></a>
+          <a href="category.php"><span class="glyphicons glyphicon-file"></span><span class="sidebar-title">栏目管理</span></a>
         </li>
         <li>
           <a href="product_list.php"><span class="glyphicons glyphicon-paperclip"></span><span class="sidebar-title">产品管理</span></a>
@@ -33,7 +33,7 @@
         </li>
 
         <li>
-          <a href="model.php"><span class="glyphicons glyphicon-credit-card"></span><span class="sidebar-title">模型管理</span></a>
+          <a href="model.php"><span class="glyphicons glyphicon-hdd"></span><span class="sidebar-title">模型管理</span></a>
         </li>
         <li>
           <a href="website.php"><span class="glyphicons glyphicon-paperclip"></span><span class="sidebar-title">网站信息</span></a>

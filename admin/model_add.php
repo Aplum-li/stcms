@@ -15,12 +15,15 @@ if($_POST){
         'model_details'=>$model_details,
         'model_addFile'=>$model_addFile
     );
-    $res=$db->insert('model',$arr,true);
-    if($res){
-        showmsg('添加成功','model.php');
+    if($db->insert('model',$arr)){
+        $res['status'] = 'y';
+	    $res['info'] = '添加成功';
+	    $res['url'] = 'model.php';
     } else {
-        showmsg('添加失败');
+	    $res['status'] = 'n';
+	    $res['info'] = '添加失败';
     }
+	echo json_encode($res);
     die;
 }
 $smarty->assign('title', '添加模型');

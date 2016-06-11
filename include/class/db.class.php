@@ -13,26 +13,16 @@ class proPdo
     public $dbpass;
     public $sth;
     public $dbh;
-    const DB_HOST='localhost';
-    //public $host = 'localhost';
-    const DB_PORT='3306';
-    const DB_NAME='wd16000';
-    //const DB_NAME='zfb_collection';
-    const DB_USER='root';
-    const DB_PASS='123';
-    const DB_CHARSET='utf8';
-    const DB_PRE='fa_';
     public $page_size = 10;
 
     public  function __construct()
     {
         header("Content-Type:text/html; charset=utf-8");
-        $this->dsn = 'mysql:host='.self::DB_HOST.';port='.self::DB_PORT.';dbname='.self::DB_NAME;
-        //$this->dsn = 'mysql:host='.$this->host.';port='.self::DB_PORT.';dbname='.self::DB_NAME;
-        $this->dbuser = self::DB_USER;
-        $this->dbpass = self::DB_PASS;
+        $this->dsn = 'mysql:host='.DB_HOST.';port='.DB_PORT.';dbname='.DB_NAME;
+        $this->dbuser = DB_USER;
+        $this->dbpass = DB_PASS;
         $this->connect();
-        $this->dbh->query('SET NAMES '.self::DB_CHARSET);
+        $this->dbh->query('SET NAMES '.DB_CHARSET);
     }
 
     public static function getInstance()
@@ -74,7 +64,7 @@ class proPdo
         $tables = array();
         foreach ($rows as $row){
             $items = array();
-            $table = $row['Tables_in_'.self::DB_NAME];
+            $table = $row['Tables_in_'.DB_NAME];
             $sql = "show columns from  {$table}";
             $items = $this->doSql($sql);
             $columns = array();
@@ -90,7 +80,7 @@ class proPdo
     private function getCode($table,$args)
     {
         $allTables = $this->getAllTable();/*返回所有的表及其字段*/
-        $table = self::DB_PRE.$table;
+        $table = DB_PRE.$table;
         if (!is_array($allTables[$table]))
         {
             exit('表名错误或未更新缓存!');
@@ -100,10 +90,6 @@ class proPdo
         {
             foreach ($args as $k => $v)
             {
-                if ($v == '')
-                {
-                    continue;
-                }
                 $code .= "`$k`='$v',";
             }
         }
@@ -120,7 +106,7 @@ class proPdo
      */
     public function insert($table,$args,$debug = null)
     {
-        $sql = "INSERT INTO `".self::DB_PRE."$table` SET ";
+        $sql = "INSERT INTO `".DB_PRE."$table` SET ";
         $code = $this->getCode($table,$args);
 
         $sql .= $code;
@@ -136,7 +122,7 @@ class proPdo
     //查询数据
     public function fetch($table,$condition = '',$sort = '',$page = '',$field = '*',$debug = false)
     {
-        $sql = "SELECT {$field} FROM `".self::DB_PRE."{$table}`";
+        $sql = "SELECT {$field} FROM `".DB_PRE."{$table}`";
         if (false !== ($con = $this->getCondition($condition)))
         {
             $sql .= $con;
@@ -162,7 +148,7 @@ class proPdo
     //查询数据
     public function fetchOne($table,$condition = null,$field = '*',$debug = false)
     {
-        $sql = "SELECT {$field} FROM `".self::DB_PRE."{$table}`";
+        $sql = "SELECT {$field} FROM `".DB_PRE."{$table}`";
         if (false !== ($con = $this->getCondition($condition)))
         {
             $sql .= $con;
@@ -184,7 +170,7 @@ class proPdo
      * @return
      */
     public function fetchId($table,$condition = null,$debug = false){
-        $sql = "SELECT id FROM `".self::DB_PRE."{$table}`";
+        $sql = "SELECT id FROM `".DB_PRE."{$table}`";
         if (false !== ($con = $this->getCondition($condition)))
         {
             $sql .= $con;
@@ -230,7 +216,7 @@ class proPdo
     //获取记录总数
     public function counts($table,$condition = '',$debug = false)
     {
-        $sql = "SELECT COUNT(*) AS num FROM `".self::DB_PRE."$table`";
+        $sql = "SELECT COUNT(*) AS num FROM `".DB_PRE."$table`";
         if (false !== ($con = $this->getCondition($condition)))
         {
             $sql .= $con;
@@ -263,8 +249,17 @@ class proPdo
     {
 
         $code = $this->getCode($table,$args);
-        $sql = "UPDATE `".self::DB_PRE."$table` SET ";
+        $sql = "UPDATE `".DB_PRE."$table` SET ";
         $sql .= $code;
+
+	    //查询是否与上次完全一样
+	    if(is_array($args) && is_array($condition)){
+		    if($this->fetchOne($table,array_merge($args,$condition))){
+				return true;
+		    }
+	    }
+
+
         if (false !== ($con = $this->getCondition($condition)))
         {
             $sql .= $con;
@@ -281,7 +276,7 @@ class proPdo
     //字段递增
     public function increase($table,$condition,$field,$debug=false)
     {
-        $sql = "UPDATE `".self::DB_PRE."$table` SET $field = $field + 1";
+        $sql = "UPDATE `".DB_PRE."$table` SET $field = $field + 1";
         if (false !== ($con = $this->getCondition($condition))){
             $sql .= $con;
         }
@@ -296,7 +291,7 @@ class proPdo
     //删除记录
     public function del($table,$condition,$debug = false)
     {
-        $sql = "DELETE FROM `".self::DB_PRE."$table`";
+        $sql = "DELETE FROM `".DB_PRE."$table`";
         if (false !== ($con = $this->getCondition($condition)))
         {
             $sql .= $con;

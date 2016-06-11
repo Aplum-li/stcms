@@ -19,7 +19,6 @@
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="layer/layer/layer.js"></script>
 <script type="text/javascript" src="layer/common.js"></script>
-
 </head>
 <body class="login-page">
 
@@ -53,7 +52,7 @@
           </div>
         </div>
         <div class="form-group">
-          <img src="../code/mycode.php" id="code">
+          <img src="../code/mycode.php" id="code" width="100px" height="35px">
         </div>
       </div>
 

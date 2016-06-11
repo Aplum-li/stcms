@@ -1,5 +1,4 @@
 <?php
-//header('content-type:text/html;charset=utf8');
 header('content-type:image/png');
 function get_rand($length=4){
 	$str='0123456789abcdefghijklmnopqsrtuvwxyz';
@@ -41,7 +40,7 @@ for ($i=0; $i <strlen($str) ; $i++) {
 // string $fontfile(文字的文件夹路径) , 
 // string $text(需要显示的验证码) )
 
-	imagefttext($im,20,rand(-30,30),10+$i*10,22,$text_c,'simhei.ttf',$current);
+	imagefttext($im,20,rand(-30,30),10+$i*10,22,$text_c,'arial.ttf',$current);
 }
 
 //、加入噪点防止注册机器分析原图片来恶意注册
@@ -67,13 +66,11 @@ for ($i=0; $i <10 ; $i++) {
 	//int $y2 , 
 	//int $color )
 
-	$hr_color=imagecolorallocate($im,rand(0,255),rand(0,255),rand(0,255));
-	imageline($im,rand(0,150),rand(0,50),rand(0,150),rand(0,50),$hr_color);
+	//$hr_color=imagecolorallocate($im,rand(0,255),rand(0,255),rand(0,255));
+	//imageline($im,rand(0,150),rand(0,50),rand(0,150),rand(0,50),$hr_color);
 }
 
 //输出图片--根据头声明决定
 imagepng($im);
 //释放图片
 imagedestroy($im);
-
-?>

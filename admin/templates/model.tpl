@@ -14,7 +14,7 @@
 			<div class="panel">
                 <div class="panel-heading">
                   <div class="panel-title">{li:$title}</div>
-                  <a href="model_add.php" class="btn btn-info btn-gradient pull-right"><span class="glyphicons glyphicon-plus"></span> 添加模型</a>
+                  <a href="{li:$filePre}_add.php" class="btn btn-info btn-gradient pull-right"><span class="glyphicons glyphicon-plus"></span> 添加模型</a>
                 </div>
                 <form action="" method="post">
                 <div class="panel-body">
@@ -30,8 +30,8 @@
                         <td>{li:$v.model_name}</td>
                         <td>
 		                      <div class="btn-group">
-		                        <a href="model_edit.php?nid={li:$v['id']}" class="btn btn-default btn-gradient"><span class="glyphicons glyphicon-pencil"></span></a>
-		                        <a onclick="return confirm('确定要删除吗？');" href="model.php?nid={li:$v['id']}&type=del" class="btn btn-default btn-gradient dropdown-toggle"><span class="glyphicons glyphicon-trash"></span></a>
+		                        <a href="{li:$filePre}_edit.php?id={li:$v['id']}" class="btn btn-default btn-gradient"><span class="glyphicons glyphicon-pencil"></span></a>
+		                        <a onclick="return confirm('确定要删除吗？');" href="model.php?id={li:$v['id']}&type=del" class="btn btn-default btn-gradient dropdown-toggle"><span class="glyphicons glyphicon-trash"></span></a>
 		                      </div>
                         
                         </td>

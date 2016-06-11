@@ -22,7 +22,16 @@
   <link rel="stylesheet" type="text/css" href="css/custom.css">
   
   <!-- Core Javascript - via CDN --> 
-  <script type="text/javascript" src="js/jquery.min.js"></script> 
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+    <!-- 验证插件 -->
+    <link rel="stylesheet" type="text/css" href="/source/Validform/style.css">
+    <link rel="stylesheet" type="text/css" href="/source/Validform/demo.css">
+    <script type="text/javascript" src="/source/Validform/Validform_v5.3.2.js"></script>
+    <!-- 验证插件 -->
+    <!-- 弹窗插件 -->
+    <script type="text/javascript" src="layer/layer/layer.js"></script>
+    <script type="text/javascript" src="layer/common.js"></script>
+    <!-- 弹窗插件 -->
 </head>
 
 <body>
