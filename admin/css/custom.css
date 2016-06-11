@@ -52,3 +52,9 @@
 .product-img .close{
 	margin: 25px 0 0 10px;
 }
+.tabs button.on{
+    font-weight:bold;
+}
+.table-hide{
+    display: none;
+}

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2016-06-10 15:17:18
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2016-06-11 09:41:37
          compiled from "C:\wamp\www\stcms\admin\templates\index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:13884575ad9fe6d1ab7-45335162%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd7e470569e85d48254f625c9a5703313c9deef37' => 
     array (
       0 => 'C:\\wamp\\www\\stcms\\admin\\templates\\index.tpl',
-      1 => 1465399563,
+      1 => 1465609296,
       2 => 'file',
     ),
   ),
@@ -15,9 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21-dev',
   'unifunc' => 'content_575ad9fe717a95_12845844',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_575ad9fe717a95_12845844')) {function content_575ad9fe717a95_12845844($_smarty_tpl) {?><?php echo $_smarty_tpl->getSubTemplate ('header.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
@@ -29,11 +29,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   <!-- End: Sidebar -->    
   <!-- Start: Content -->
   <section id="content">
-    <div id="topbar" class="affix">
-      <ol class="breadcrumb">
-        <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span></a></li>
-      </ol>
-    </div>
+      <?php echo $_smarty_tpl->getSubTemplate ('pos.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
     <div class="container">
 
 

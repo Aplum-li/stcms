@@ -88,9 +88,9 @@ class category {
 	static public function getParents($cate, $id) {
 		$arr = array();
 		foreach ($cate as $v) {
-			if ($v['nav_id'] == $id) {
+			if ($v['id'] == $id) {
 				$arr[] = $v;
-				$arr = array_merge(self::getParents($cate, $v['nav_parent']), $arr);
+				$arr = array_merge(self::getParents($cate, $v['pid']), $arr);
 			}
 		}
 		return $arr;

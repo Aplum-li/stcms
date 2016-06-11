@@ -6,11 +6,7 @@
   <!-- End: Sidebar -->    
   <!-- Start: Content -->
   <section id="content">
-    <div id="topbar" class="affix">
-      <ol class="breadcrumb">
-        <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span></a></li>
-      </ol>
-    </div>
+      {li:include file='pos.tpl'}
     <div class="container">
 
 

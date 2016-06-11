@@ -38,7 +38,7 @@
       <div class="panel-body">
         <div class="form-group">
           <div class="input-group"> <span class="input-group-addon">用户名</span>
-            <input type="text" name="username" class="form-control" autocomplete="off"  placeholder="请输入您的用户名">
+            <input type="text" name="username" class="form-control" autocomplete="off"  placeholder="请输入您的用户名" autofocus>
           </div>
         </div>
         <div class="form-group">

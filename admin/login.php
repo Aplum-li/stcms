@@ -22,7 +22,7 @@ if($_POST){
       die;
     }
 
-    if ($admin_info['admin_pwd'] != md5($pwd)) {
+    if ($admin_info['admin_pwd'] != substrpwd($pwd)) {
       $res['status'] = 0;
       $res['info'] = '密码错误';
       echo json_encode($res);
@@ -50,4 +50,5 @@ if($_POST){
   echo json_encode($res);
   die;
 }
+//echo substrpwd('123456');
 $smarty -> display('login.tpl');

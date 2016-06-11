@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2016-06-10 15:14:39
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2016-06-11 09:43:18
          compiled from "C:\wamp\www\stcms\admin\templates\header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:26886575ad6f0a46435-25199136%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '170ffd65a3980bba4d279c12d0869dc388612393' => 
     array (
       0 => 'C:\\wamp\\www\\stcms\\admin\\templates\\header.tpl',
-      1 => 1465571674,
+      1 => 1465609397,
       2 => 'file',
     ),
   ),
@@ -48,7 +48,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 >
     <!-- 验证插件 -->
     <link rel="stylesheet" type="text/css" href="/source/Validform/style.css">
-    <link rel="stylesheet" type="text/css" href="/source/Validform/demo.css">
+    <link rel="stylesheet" type="text/css" href="/source/Validform/admin.css">
     <?php echo '<script'; ?>
  type="text/javascript" src="/source/Validform/Validform_v5.3.2.js"><?php echo '</script'; ?>
 >

@@ -11,6 +11,8 @@ if (isset($_GET['type']) && $_GET['type'] == 'del' && $_GET['id']) {
 }
 
 $list_ = $db->fetch('article_type','','id asc');
+$category = new category();
+$list_ = $category->toLevel($list_,'┖ ');
 $smarty->assign('list_', $list_);
 $smarty->assign('title', '栏目管理');
 $smarty->display($filePre.'.tpl');

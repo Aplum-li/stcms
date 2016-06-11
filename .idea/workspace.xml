@@ -2,290 +2,318 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec18a2f-c5b9-4188-8e1c-f9ced2ba2d6f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/category_add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/templates/category.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/templates/category_add.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/config/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/config/db.config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/xxtea.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/anchor/anchor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/attachment.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/attachment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/attachment/fileTypeMaps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/background/background.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/background/background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/background/background.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/chart.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/charts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/charts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/charts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/images/charts0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/images/charts1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/images/charts2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/images/charts3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/images/charts4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/charts/images/charts5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/emotion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/emotion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/emotion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/0.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/bface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/cface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/fface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/jxface2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/tface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/wface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/emotion/images/yface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/gmap/gmap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/help/help.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/help/help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/help/help.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/image.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/imageUploader.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/images/center_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/images/left_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/images/none_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/image/images/right_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/insertframe/insertframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/internal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/link/link.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/map/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/map/show.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/music/music.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/music/music.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/music/music.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/preview/preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/addimg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/brush.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/delimg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/delimgH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/empty.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/emptyH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/eraser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/redo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/redoH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/scale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/scaleH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/size.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/images/undoH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/scrawl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/scrawl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/scrawl/scrawl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/searchreplace/searchreplace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/searchreplace/searchreplace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/snapscreen/snapscreen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/spechars/spechars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/spechars/spechars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/table/dragicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/table/edittable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/table/edittable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/table/edittable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/table/edittd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/table/edittip.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/tangram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/images/bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/images/pre0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/images/pre1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/images/pre2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/images/pre3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/images/pre4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/template/template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/images/center_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/images/left_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/images/none_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/images/right_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/video.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/video/video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/webapp/webapp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/wordimage/imageUploader.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/wordimage/wordimage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/dialogs/wordimage/wordimage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/addimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/alldeletebtnhoverskin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/alldeletebtnupskin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/deletedisable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/deleteenable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/imglabel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/listbackground.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/localimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/rotateleftdisable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/rotateleftenable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/rotaterightdisable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/rotaterightenable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/en/images/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/zh-cn/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/zh-cn/images/imglabel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/zh-cn/images/localimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/zh-cn/images/music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/zh-cn/images/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/lang/zh-cn/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/Uploader.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/fileUp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/getContent.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/getMovie.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/getRemoteImage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/imageManager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/imageUp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/php/scrawlUp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/css/ueditor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/css/ueditor.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/dialogbase.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/button-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/cancelbutton.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/charts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/cursor_h.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/cursor_h.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/cursor_v.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/cursor_v.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/dialog-title-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/filescan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/highlighted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/icons-all.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/lock.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/neweditor-tab-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/pagebreak.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/scale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/sortable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/sparator_v.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/table-cell-align.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/tangram-colorpicker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/toolbar_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/unhighlighted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/videologo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/word.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/default/images/wordpaste.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/themes/iframe.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/SyntaxHighlighter/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/codemirror/codemirror.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/codemirror/codemirror.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/adapters/mootools-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/adapters/prototype-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/adapters/standalone-framework.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/highcharts-more.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/highcharts.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/annotations.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/annotations.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/canvas-tools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/canvas-tools.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/data.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/drilldown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/drilldown.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/exporting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/exporting.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/funnel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/funnel.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/heatmap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/heatmap.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/map.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/no-data-to-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/themes/dark-blue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/themes/dark-green.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/themes/gray.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/themes/grid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/highcharts/themes/skies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/fileprogress.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/swfupload.cookies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/swfupload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/swfupload.proxy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/swfupload.queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/swfupload.speed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/swfupload.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/swfupload/swfupload_fp9.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/font/vjs.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/font/vjs.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/font/vjs.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/font/vjs.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/video-js.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/video-js.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/video-js.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/video.dev.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/third-party/video-js/video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/ueditor.all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/ueditor.all.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/ueditor.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/ueditor.parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/ueditor136/ueditor.parse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/code/simhei.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/0226ad5809d09dc5b36819c5e9a9fbfb3011c45a.file.news_add.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/0c798cfa867c596317e7d614deb4e2bdb64bd0f8.file.model.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/52e4777f98923e701800aa3edc13da1c70290d41.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/605273388a6c1f7864948768701720742e59da42.file.index.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/6a600e3c6f5ed84971e8a8c1438d2db3c4c5a760.file.model_add.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/9fa508cc24668af3548454ff33222d9e20940e8c.file.model_edit.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/a1096ffb08a283c191a386203b46db5bcd4a6e62.file.login.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/b4ff92a4f1dc9cc7f95808e1cb5772d21333bce4.file.news_list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/ca407ca1eadfe9220fe84fa97eac1130060d1467.file.left.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/smarty/templates_c/d404eb8e463ff318f37fbc9aef032ad5d699a31f.file.pos.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wd16000.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/include/fun/function.php" afterPath="$PROJECT_DIR$/include/func/function.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/include/fun/mysql_function.php" afterPath="$PROJECT_DIR$/include/func/mysql_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/__MACOSX/._uploadify.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/uploadify-cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/uploadify.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/uploadify.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/Change Log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/__MACOSX/._Change Log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/check-exists.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/jquery.uploadify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/jquery.uploadify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/uploadify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/upload/uploadify.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/category_add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/init.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/anchor/anchor.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/anchor/anchor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/attachment.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/attachment.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/attachment.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/attachment.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/attachment.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/attachment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_chm.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_default.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_doc.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_exe.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_mv.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_psd.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_rar.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_txt.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/fileTypeImages/icon_xls.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/alignicon.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/alignicon.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/alignicon.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/alignicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/file-icons.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/file-icons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/file-icons.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/file-icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/icons.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/icons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/icons.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/image.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/progress.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/progress.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/success.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/success.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/attachment/images/success.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/success.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/background/background.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/background/background.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/background/background.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/background/background.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/background/background.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/background/background.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/background/images/bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/background/images/success.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/success.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/chart.config.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/chart.config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/charts.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/charts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/charts.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/charts.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/charts.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/charts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/images/charts0.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/images/charts0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/images/charts1.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/images/charts1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/images/charts2.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/images/charts2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/images/charts3.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/images/charts3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/images/charts4.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/images/charts4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/charts/images/charts5.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/charts/images/charts5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/emotion.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/emotion.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/emotion.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/emotion.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/emotion.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/emotion.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/0.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/bface.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/bface.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/cface.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/cface.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/fface.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/fface.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/jxface2.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/jxface2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/neweditor-tab-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/tface.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/tface.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/wface.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/wface.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/emotion/images/yface.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/yface.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/gmap/gmap.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/gmap/gmap.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/help/help.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/help/help.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/help/help.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/help/help.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/help/help.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/help/help.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/image.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/image.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/image.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/image.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/image.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/image.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/alignicon.jpg" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/alignicon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/background/images/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/icons.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/icons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/icons.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/image.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/progress.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/progress.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/success.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/image/images/success.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/image/images/success.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/background/images/success.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/insertframe/insertframe.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/insertframe/insertframe.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/internal.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/internal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/link/link.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/link/link.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/map/map.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/map/map.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/map/show.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/map/show.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/music/music.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/music/music.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/music/music.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/music/music.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/music/music.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/music/music.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/preview/preview.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/preview/preview.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/addimg.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/addimg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/brush.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/brush.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/delimg.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/delimg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/delimgH.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/delimgH.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/empty.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/empty.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/emptyH.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/emptyH.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/eraser.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/eraser.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/redo.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/redo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/redoH.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/redoH.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/scale.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/scale.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/scaleH.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/scaleH.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/size.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/undo.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/undo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/images/undoH.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/images/undoH.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/scrawl.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/scrawl.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/scrawl.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/scrawl.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/scrawl/scrawl.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/scrawl/scrawl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/searchreplace/searchreplace.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/searchreplace/searchreplace.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/searchreplace/searchreplace.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/searchreplace/searchreplace.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/snapscreen/snapscreen.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/snapscreen/snapscreen.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/spechars/spechars.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/spechars/spechars.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/spechars/spechars.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/spechars/spechars.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/table/dragicon.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/table/dragicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/table/edittable.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/table/edittable.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/table/edittable.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/table/edittable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/table/edittable.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/table/edittable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/table/edittd.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/table/edittd.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/table/edittip.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/table/edittip.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/config.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/images/bg.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/images/bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/images/pre0.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/images/pre0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/images/pre1.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/images/pre1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/images/pre2.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/images/pre2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/images/pre3.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/images/pre3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/images/pre4.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/images/pre4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/template.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/template.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/template.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/template.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/template/template.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/template/template.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/center_focus.jpg" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/center_focus.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/file-icons.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/file-icons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/file-icons.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/file-icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/icons.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/icons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/icons.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/image.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/left_focus.jpg" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/left_focus.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/none_focus.jpg" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/none_focus.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/progress.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/progress.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/right_focus.jpg" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/images/right_focus.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/success.gif" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/success.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/images/success.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/attachment/images/success.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/video.css" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/video.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/video.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/video.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/video/video.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/video/video.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/webapp/webapp.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/webapp/webapp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/wordimage/fClipboard_ueditor.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/wordimage/imageUploader.swf" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/wordimage/imageUploader.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/wordimage/tangram.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/wordimage/tangram.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/wordimage/wordimage.html" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/wordimage/wordimage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/dialogs/wordimage/wordimage.js" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/wordimage/wordimage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/index.html" afterPath="$PROJECT_DIR$/source/ueditor143/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/en.js" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/en.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/addimage.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/addimage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/alldeletebtnhoverskin.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/alldeletebtnhoverskin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/alldeletebtnupskin.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/alldeletebtnupskin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/background.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/button.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/copy.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/copy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/deletedisable.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/deletedisable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/deleteenable.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/deleteenable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/listbackground.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/listbackground.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/localimage.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/localimage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/music.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/music.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/rotateleftdisable.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/rotateleftdisable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/rotateleftenable.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/rotateleftenable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/rotaterightdisable.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/rotaterightdisable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/rotaterightenable.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/rotaterightenable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/en/images/upload.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/en/images/upload.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/zh-cn/images/copy.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/zh-cn/images/copy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/zh-cn/images/localimage.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/zh-cn/images/localimage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/zh-cn/images/music.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/zh-cn/images/music.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/zh-cn/images/upload.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/upload.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/lang/zh-cn/zh-cn.js" afterPath="$PROJECT_DIR$/source/ueditor143/lang/zh-cn/zh-cn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/php/Uploader.class.php" afterPath="$PROJECT_DIR$/source/ueditor143/php/Uploader.class.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/php/action_crawler.php" afterPath="$PROJECT_DIR$/source/ueditor143/php/action_crawler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/php/action_list.php" afterPath="$PROJECT_DIR$/source/ueditor143/php/action_list.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/php/action_upload.php" afterPath="$PROJECT_DIR$/source/ueditor143/php/action_upload.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/php/config.json" afterPath="$PROJECT_DIR$/source/ueditor143/php/config.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/php/controller.php" afterPath="$PROJECT_DIR$/source/ueditor143/php/controller.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/css/ueditor.css" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/css/ueditor.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/css/ueditor.min.css" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/css/ueditor.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/dialogbase.css" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/dialogbase.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/anchor.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/anchor.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/arrow.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/arrow_down.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/arrow_down.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/arrow_up.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/arrow_up.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/button-bg.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/button-bg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/cancelbutton.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/cancelbutton.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/charts.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/charts.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/cursor_h.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/cursor_h.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/cursor_h.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/cursor_h.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/cursor_v.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/cursor_v.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/cursor_v.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/cursor_v.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/dialog-title-bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/dialog-title-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/filescan.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/filescan.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/highlighted.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/highlighted.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/icons-all.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/icons-all.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/icons.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/icons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/icons.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/loaderror.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/loaderror.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/loading.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/lock.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/lock.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/neweditor-tab-bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/pagebreak.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/pagebreak.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/scale.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/scale.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/sortable.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/sortable.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/spacer.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/spacer.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/sparator_v.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/sparator_v.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/table-cell-align.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/table-cell-align.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/tangram-colorpicker.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/tangram-colorpicker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/toolbar_bg.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/toolbar_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/unhighlighted.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/unhighlighted.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/upload.png" afterPath="$PROJECT_DIR$/source/ueditor143/lang/zh-cn/images/upload.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/videologo.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/videologo.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/word.gif" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/word.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/default/images/wordpaste.png" afterPath="$PROJECT_DIR$/source/ueditor143/themes/default/images/wordpaste.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/themes/iframe.css" afterPath="$PROJECT_DIR$/source/ueditor143/themes/iframe.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/SyntaxHighlighter/shCore.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/SyntaxHighlighter/shCore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/SyntaxHighlighter/shCoreDefault.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/codemirror/codemirror.css" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/codemirror/codemirror.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/codemirror/codemirror.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/codemirror/codemirror.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/adapters/mootools-adapter.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/adapters/mootools-adapter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/adapters/mootools-adapter.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/adapters/prototype-adapter.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/adapters/prototype-adapter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/adapters/prototype-adapter.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/adapters/standalone-framework.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/adapters/standalone-framework.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/adapters/standalone-framework.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/highcharts-more.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/highcharts-more.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/highcharts-more.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/highcharts-more.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/highcharts.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/highcharts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/highcharts.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/highcharts.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/annotations.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/annotations.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/annotations.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/annotations.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/canvas-tools.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/canvas-tools.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/canvas-tools.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/canvas-tools.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/data.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/data.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/data.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/drilldown.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/drilldown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/drilldown.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/drilldown.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/exporting.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/exporting.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/exporting.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/exporting.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/funnel.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/funnel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/funnel.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/funnel.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/heatmap.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/heatmap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/heatmap.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/heatmap.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/map.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/map.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/map.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/map.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/no-data-to-display.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/no-data-to-display.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/modules/no-data-to-display.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/themes/dark-blue.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/themes/dark-blue.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/themes/dark-green.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/themes/dark-green.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/themes/gray.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/themes/gray.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/themes/grid.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/themes/grid.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/highcharts/themes/skies.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/highcharts/themes/skies.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/jquery-1.10.2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/jquery-1.10.2.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/jquery-1.10.2.min.map" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/jquery-1.10.2.min.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/snapscreen/UEditorSnapscreen.exe" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/font/vjs.eot" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/font/vjs.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/font/vjs.svg" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/font/vjs.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/font/vjs.ttf" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/font/vjs.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/font/vjs.woff" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/font/vjs.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/video-js.css" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/video-js.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/video-js.min.css" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/video-js.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/video-js.swf" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/video-js.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/video.dev.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/video.dev.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/video-js/video.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/video-js/video.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/Uploader.swf" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/Uploader.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.css" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.custom.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.custom.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.custom.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.flashonly.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.flashonly.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.flashonly.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.flashonly.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.html5only.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.html5only.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.html5only.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.html5only.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.withoutimage.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.withoutimage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/webuploader/webuploader.withoutimage.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/webuploader/webuploader.withoutimage.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/zeroclipboard/ZeroClipboard.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/zeroclipboard/ZeroClipboard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/zeroclipboard/ZeroClipboard.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/zeroclipboard/ZeroClipboard.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/third-party/zeroclipboard/ZeroClipboard.swf" afterPath="$PROJECT_DIR$/source/ueditor143/third-party/zeroclipboard/ZeroClipboard.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/ueditor.all.js" afterPath="$PROJECT_DIR$/source/ueditor143/ueditor.all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/ueditor.all.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/ueditor.all.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/ueditor.config.js" afterPath="$PROJECT_DIR$/source/ueditor143/ueditor.config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/ueditor.parse.js" afterPath="$PROJECT_DIR$/source/ueditor143/ueditor.parse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/ueditor143/ueditor.parse.min.js" afterPath="$PROJECT_DIR$/source/ueditor143/ueditor.parse.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/Validform/demo.css" afterPath="$PROJECT_DIR$/source/Validform/admin.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/checklogin.php" afterPath="$PROJECT_DIR$/admin/checklogin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/model.php" afterPath="$PROJECT_DIR$/admin/model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/model_add.php" afterPath="$PROJECT_DIR$/admin/model_add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/model_edit.php" afterPath="$PROJECT_DIR$/admin/model_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/category.php" afterPath="$PROJECT_DIR$/admin/category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/category_add.php" afterPath="$PROJECT_DIR$/admin/category_add.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/css/custom.css" afterPath="$PROJECT_DIR$/admin/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/login.php" afterPath="$PROJECT_DIR$/admin/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/category.tpl" afterPath="$PROJECT_DIR$/admin/templates/category.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/category_add.tpl" afterPath="$PROJECT_DIR$/admin/templates/category_add.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/header.tpl" afterPath="$PROJECT_DIR$/admin/templates/header.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/left.tpl" afterPath="$PROJECT_DIR$/admin/templates/left.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/index.tpl" afterPath="$PROJECT_DIR$/admin/templates/index.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/login.tpl" afterPath="$PROJECT_DIR$/admin/templates/login.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/model.tpl" afterPath="$PROJECT_DIR$/admin/templates/model.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/model_add.tpl" afterPath="$PROJECT_DIR$/admin/templates/model_add.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/model_edit.tpl" afterPath="$PROJECT_DIR$/admin/templates/model_edit.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/mycode.php" afterPath="$PROJECT_DIR$/code/mycode.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/class/db.class.php" afterPath="$PROJECT_DIR$/include/class/db.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/init.php" afterPath="$PROJECT_DIR$/include/init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wd16000.sql" afterPath="$PROJECT_DIR$/wd16000.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/upload.php" afterPath="$PROJECT_DIR$/admin/upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/class/category.class.php" afterPath="$PROJECT_DIR$/include/class/category.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/func/function.php" afterPath="$PROJECT_DIR$/include/func/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smarty/templates_c/170ffd65a3980bba4d279c12d0869dc388612393.file.header.tpl.php" afterPath="$PROJECT_DIR$/smarty/templates_c/170ffd65a3980bba4d279c12d0869dc388612393.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smarty/templates_c/32af9a734fd98d6b7f94ff48a82c0ac15ba2c4a3.file.login.tpl.php" afterPath="$PROJECT_DIR$/smarty/templates_c/32af9a734fd98d6b7f94ff48a82c0ac15ba2c4a3.file.login.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smarty/templates_c/36e45915cf6afc72856742e49930792f54b42bb8.file.category.tpl.php" afterPath="$PROJECT_DIR$/smarty/templates_c/36e45915cf6afc72856742e49930792f54b42bb8.file.category.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smarty/templates_c/9121408940ffba81a2c74654b9726e172e4b207a.file.category_add.tpl.php" afterPath="$PROJECT_DIR$/smarty/templates_c/9121408940ffba81a2c74654b9726e172e4b207a.file.category_add.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smarty/templates_c/d7e470569e85d48254f625c9a5703313c9deef37.file.index.tpl.php" afterPath="$PROJECT_DIR$/smarty/templates_c/d7e470569e85d48254f625c9a5703313c9deef37.file.index.tpl.php" />
     </list>
     <ignored path="wd16000.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -310,51 +338,9 @@
       <file leaf-file-name="category.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state vertical-scroll-proportion="-12.95">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checklogin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/checklogin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="category.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/category.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="93" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="93" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="init.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/init.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.35">
-              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/func/function.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.65">
-              <caret line="377" column="18" selection-start-line="377" selection-start-column="9" selection-end-line="377" selection-end-column="18" />
-              <folding>
-                <marker date="1465608881409" expanded="true" signature="3880:3906" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -362,38 +348,18 @@
       <file leaf-file-name="category_add.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/category_add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.2">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            <state vertical-scroll-proportion="-5.75">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xxtea.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/js/xxtea.js">
+      <file leaf-file-name="category.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/class/category.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/templates/login.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.5">
-              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.9">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -402,8 +368,60 @@
       <file leaf-file-name="category_add.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/templates/category_add.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="82.125">
+              <caret line="126" column="123" selection-start-line="126" selection-start-column="123" selection-end-line="126" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/templates/category.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36009732">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.4">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.85">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/Validform/admin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.0">
+              <caret line="157" column="19" selection-start-line="157" selection-start-column="19" selection-end-line="157" selection-end-column="19" />
+              <folding>
+                <marker date="1465657627470" expanded="true" signature="2895:2970" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news_list.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/templates/news_list.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.95">
+              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="55" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -426,13 +444,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/admin/index.php" />
-        <option value="$PROJECT_DIR$/admin/templates/index.tpl" />
         <option value="$PROJECT_DIR$/admin/logout.php" />
         <option value="$PROJECT_DIR$/admin/templates/news_list.tpl" />
         <option value="$PROJECT_DIR$/admin/news_add.php" />
         <option value="$PROJECT_DIR$/admin/templates/news_add.tpl" />
-        <option value="$PROJECT_DIR$/admin/login.php" />
         <option value="$PROJECT_DIR$/admin/news_list.php" />
         <option value="$PROJECT_DIR$/admin/templates/pos.html" />
         <option value="$PROJECT_DIR$/init.php" />
@@ -441,7 +456,6 @@
         <option value="$PROJECT_DIR$/code/mycode.php" />
         <option value="$PROJECT_DIR$/source/Validform/demo.css" />
         <option value="$PROJECT_DIR$/source/Validform/style.css" />
-        <option value="$PROJECT_DIR$/admin/templates/header.tpl" />
         <option value="$PROJECT_DIR$/admin/model_add.php" />
         <option value="$PROJECT_DIR$/admin/model.php" />
         <option value="$PROJECT_DIR$/admin/templates/model_add.tpl" />
@@ -450,14 +464,25 @@
         <option value="$PROJECT_DIR$/admin/model_edit.php" />
         <option value="$PROJECT_DIR$/admin/templates/left.tpl" />
         <option value="$PROJECT_DIR$/admin/checklogin.php" />
-        <option value="$PROJECT_DIR$/admin/templates/category.tpl" />
         <option value="$PROJECT_DIR$/admin/templates/model.tpl" />
-        <option value="$PROJECT_DIR$/admin/category.php" />
-        <option value="$PROJECT_DIR$/admin/category_add.php" />
         <option value="$PROJECT_DIR$/source/js/xxtea.js" />
-        <option value="$PROJECT_DIR$/admin/templates/login.tpl" />
         <option value="$PROJECT_DIR$/include/init.php" />
+        <option value="$PROJECT_DIR$/admin/login.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/templates/index.tpl" />
+        <option value="$PROJECT_DIR$/admin/templates/header.tpl" />
+        <option value="$PROJECT_DIR$/admin/templates/login.tpl" />
+        <option value="$PROJECT_DIR$/source/Validform/admin.css" />
+        <option value="$PROJECT_DIR$/admin/upload.php" />
+        <option value="$PROJECT_DIR$/source/ueditor143/php/config.json" />
+        <option value="$PROJECT_DIR$/admin/css/custom.css" />
+        <option value="$PROJECT_DIR$/admin/post.php" />
+        <option value="$PROJECT_DIR$/admin/templates/category_add.tpl" />
+        <option value="$PROJECT_DIR$/include/class/category.class.php" />
         <option value="$PROJECT_DIR$/include/func/function.php" />
+        <option value="$PROJECT_DIR$/admin/category_add.php" />
+        <option value="$PROJECT_DIR$/admin/category.php" />
+        <option value="$PROJECT_DIR$/admin/templates/category.tpl" />
       </list>
     </option>
   </component>
@@ -470,8 +495,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="2174" />
-    <option name="height" value="1402" />
+    <option name="width" value="1934" />
+    <option name="height" value="1094" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -498,6 +523,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -559,13 +585,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wd16000" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wd16000" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -577,16 +638,18 @@
     <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp\www\stcms\admin\templates" />
-      <recent name="C:\wamp\www\stcms\admin" />
-      <recent name="E:\wamp\www\wd16000\admin\templates" />
-      <recent name="E:\wamp\www\wd16000\admin" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\stcms\source" />
       <recent name="E:\wamp\www\wd16000\admin\templates" />
       <recent name="E:\wamp\www\wd16000\templates" />
       <recent name="E:\wamp\www\wd16000\include\class" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\stcms\admin" />
+      <recent name="C:\wamp\www\stcms\source" />
+      <recent name="C:\wamp\www\stcms\admin\templates" />
+      <recent name="E:\wamp\www\wd16000\admin\templates" />
+      <recent name="E:\wamp\www\wd16000\admin" />
     </key>
   </component>
   <component name="RunManager">
@@ -633,10 +696,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2174" height="1402" extended-state="0" />
+    <frame x="-11" y="-11" width="1934" height="1094" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26682693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.312026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -684,47 +747,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/include/class/db.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-          <folding>
-            <marker date="1465573997354" expanded="true" signature="2615:2628" placeholder="INSERT INTO " />
-            <marker date="1465573997354" expanded="true" signature="2615:2649" placeholder="INSERT INTO `${$table}`... " />
-            <marker date="1465573997354" expanded="true" signature="3052:3093" placeholder="SELECT ${{$f... " />
-            <marker date="1465573997354" expanded="true" signature="3836:3877" placeholder="SELECT ${{$f... " />
-            <marker date="1465573997354" expanded="true" signature="4515:4550" placeholder="SELECT id FR... ${{$table}}" />
-            <marker date="1465573997354" expanded="true" signature="5753:5799" placeholder="SELECT COUNT... ${$table}" />
-            <marker date="1465573997354" expanded="true" signature="6659:6688" placeholder="UPDATE `${$t... " />
-            <marker date="1465573997354" expanded="true" signature="7284:7333" placeholder="UPDATE `${$t... " />
-            <marker date="1465573997354" expanded="true" signature="7708:7738" placeholder="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/model.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/model_add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/model_add.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -806,27 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09348442">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/index.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.35484">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/news_list.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7946176">
-          <caret line="55" column="34" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/news_add.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.71954674">
@@ -852,13 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28045326">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -905,17 +899,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/Validform/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36567834">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Validform/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33243486">
           <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -923,27 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.5">
-          <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.625">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/model_add.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.05">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -1001,14 +968,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/model.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="126" selection-start-line="33" selection-start-column="126" selection-end-line="33" selection-end-column="126" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/checklogin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1017,76 +976,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/category_add.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/category.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="93" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/category_add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.2">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/js/xxtea.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="40" column="22" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.2">
+          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.025">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.85">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.4">
+          <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43603605">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/model.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/model_add.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.033333335">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/login.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.5">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+        <state vertical-scroll-proportion="1.8905109">
+          <caret line="40" column="120" selection-start-line="40" selection-start-column="120" selection-end-line="40" selection-end-column="120" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/init.php">
+    <entry file="file://$PROJECT_DIR$/admin/templates/news_list.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.35">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        <state vertical-scroll-proportion="-6.95">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="55" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Validform/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="157" column="19" selection-start-line="157" selection-start-column="19" selection-end-line="157" selection-end-column="19" />
+          <folding>
+            <marker date="1465657627470" expanded="true" signature="2895:2970" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22506082">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/ueditor143/php/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.540146">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.85">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/category_add.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="82.125">
+          <caret line="126" column="123" selection-start-line="126" selection-start-column="123" selection-end-line="126" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/class/category.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/include/func/function.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.65">
-          <caret line="377" column="18" selection-start-line="377" selection-start-column="9" selection-end-line="377" selection-end-column="18" />
+        <state vertical-scroll-proportion="1.2700729">
+          <caret line="389" column="15" selection-start-line="389" selection-start-column="9" selection-end-line="389" selection-end-column="15" />
           <folding>
-            <marker date="1465608881409" expanded="true" signature="3880:3906" placeholder="..." />
+            <marker date="1465662190909" expanded="true" signature="3880:3906" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/login.php">
+    <entry file="file://$PROJECT_DIR$/admin/category_add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.9">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        <state vertical-scroll-proportion="-5.75">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.95">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36009732">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
           <folding />
         </state>
       </provider>

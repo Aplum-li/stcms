@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2016-06-11 01:25:59
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2016-06-11 22:39:17
          compiled from "C:\wamp\www\stcms\admin\templates\login.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:4830575b679c4f89c5-57690039%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '32af9a734fd98d6b7f94ff48a82c0ac15ba2c4a3' => 
     array (
       0 => 'C:\\wamp\\www\\stcms\\admin\\templates\\login.tpl',
-      1 => 1465608357,
+      1 => 1465655955,
       2 => 'file',
     ),
   ),
@@ -65,7 +65,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       <div class="panel-body">
         <div class="form-group">
           <div class="input-group"> <span class="input-group-addon">用户名</span>
-            <input type="text" name="username" class="form-control" autocomplete="off"  placeholder="请输入您的用户名">
+            <input type="text" name="username" class="form-control" autocomplete="off"  placeholder="请输入您的用户名" autofocus>
           </div>
         </div>
         <div class="form-group">

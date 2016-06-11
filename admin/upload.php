@@ -3,8 +3,7 @@
 *上传图片处理
 *
 */
-include_once('../init.php');
-include_once('../include/file.class.php');
+include_once('../include/init.php');
 $type = isset($_GET['type']) ? trim($_GET['type']) : 'product';
 $save_path = '/upload/image/'.$type.'/'.date('Ymd').'/';
 $upload = new uploadImg();

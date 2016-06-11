@@ -20,14 +20,14 @@
                 <div class="panel-body">
                   <table class="table table-striped table-bordered table-hover dataTable">
                       <tr class="active">
-                          <th>ID</th>
-                        <th>模型名称</th>
-                        <th width="200">操作</th>
+                          <th width="50px">ID</th>
+                          <th>栏目名称</th>
+                          <th width="200">操作</th>
                       </tr>
                     {li:foreach $list_ as $v}
                     	<tr class="success">
                             <td>{li:$v.id}</td>
-                        <td>{li:$v.model_name}</td>
+                        <td>{li:$v.delimiter}{li:$v.typename}</td>
                         <td>
 		                      <div class="btn-group">
 		                        <a href="model_edit.php?id={li:$v['id']}" class="btn btn-default btn-gradient"><span class="glyphicons glyphicon-pencil"></span></a>
@@ -37,15 +37,9 @@
                         </td>
                       </tr>
                      {li:/foreach}
-
                   </table>
-                  
                   <div class="pull-left">
-
                     <button type="submit" class="btn btn-default btn-gradient pull-right delall"><span class="glyphicons glyphicon-trash"></span></button>
-
-
-
                   </div>
                 </div>
                 </form>

@@ -25,7 +25,7 @@
   <script type="text/javascript" src="js/jquery.min.js"></script>
     <!-- 验证插件 -->
     <link rel="stylesheet" type="text/css" href="/source/Validform/style.css">
-    <link rel="stylesheet" type="text/css" href="/source/Validform/demo.css">
+    <link rel="stylesheet" type="text/css" href="/source/Validform/admin.css">
     <script type="text/javascript" src="/source/Validform/Validform_v5.3.2.js"></script>
     <!-- 验证插件 -->
     <!-- 弹窗插件 -->
